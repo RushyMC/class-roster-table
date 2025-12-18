@@ -8,7 +8,7 @@ Built a class roster table using the given dataset of 5 students.
 "A4,Erin,Black,Erin.black@comcast.net,22,50,58,40,SECURITY",
 "A5,Epic,Gamerz,EGz@ritogames.com,25,10,20,30,SOFTWARE"
 
-Enabled users to see the data of the the 5 students in a neat table format.
+Enabled users to see the data of the 5 students in the dataset in a neat table format.
 Showcased all invalid emails, allowed removals of students by their ID, and ability to display all students in a specific degree program.
 
 <img width="1400" height="911" alt="image" src="https://github.com/user-attachments/assets/0fa2f260-cc84-4a76-935a-ed2f8b3a2b0f" />
